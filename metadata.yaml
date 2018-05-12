@@ -1,4 +1,8 @@
 _repo: Twilight-Land_47564
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47564-h/images/cover.jpg
 creator:
   author:
     agent_name: Pyle, Howard
@@ -11,6 +15,8 @@ description: Want to spend some time in the hazy, dreamy space between the real 
   and fantasy? Dig into Howard Pyle's Twilight Land, an enchanting collection of fairy
   tales that are cleverly woven together into a book-long narrative. You won't want
   to break the spell that these delightful stories cast.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47564#Twilight-Land
 gutenberg_issued: '2014-12-07'
 gutenberg_type: Text
 identifiers:
